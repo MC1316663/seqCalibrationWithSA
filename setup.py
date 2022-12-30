@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name = 'seqCalibrationWithSA',
-    version = 0.0.1,
+    name = 'sequntial_calibrationWithSA',
+    version = '0.0.1',
     description = "algorithm for sequential calibration with variance based SA",
     url = 'https://github.com/MC1316663/seqCalibrationWithSA.git',
     author = 'Moongi Choi',
     author_email = 'u1316663@utah.edu',
-    packages = ['seqCalibrationWithSA'],
+    packages = ['sequntial_calibrationWithSA'],
     install_packages = []
 )
 
